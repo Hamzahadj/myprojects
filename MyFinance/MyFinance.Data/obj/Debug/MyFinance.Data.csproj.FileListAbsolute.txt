@@ -1,0 +1,15 @@
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll.config
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.pdb
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.pdb
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.xml
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csprojResolveAssemblyReference.cache
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.InitialCreate.resources
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csproj.GenerateResource.Cache
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.ModifyImageName.resources

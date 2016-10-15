@@ -1,0 +1,5 @@
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Domain\bin\Debug\MyFinance.Domain.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Domain\bin\Debug\MyFinance.Domain.pdb
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Domain\obj\Debug\MyFinance.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Domain\obj\Debug\MyFinance.Domain.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Domain\obj\Debug\MyFinance.Domain.pdb

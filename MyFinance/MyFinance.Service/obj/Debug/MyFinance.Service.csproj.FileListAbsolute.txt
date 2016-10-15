@@ -1,0 +1,11 @@
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.pdb
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Data.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Domain.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Data.pdb
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Domain.pdb
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.xml
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.csprojResolveAssemblyReference.cache
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.dll
+C:\Users\Bilel\Documents\Visual Studio 2013\Projects\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.pdb
